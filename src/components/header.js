@@ -3,9 +3,9 @@ import React from "react";
 function Header() {
   return (
     <section className="header">
-      <p>
+      {/* <p>
         header Component.
-      </p>
+      </p> */}
     </section>
   );
 }
